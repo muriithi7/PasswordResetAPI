@@ -1,0 +1,5 @@
+{
+"password": "0gl4/A<[7Q`9",
+"usernameOrEmailAddress": "admin",
+"tenancyName": "Host"
+}

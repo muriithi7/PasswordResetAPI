@@ -1,0 +1,6 @@
+{
+"TenancyName": "Host",
+"Username": "Admin",
+"CurrentPassword": "14:z?6MO]_S8",
+"NewPassword": "0gl4/A<[7Q`9"
+}

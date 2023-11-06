@@ -1,0 +1,16 @@
+﻿{    "roles": {
+        "receiver": {
+            "id": [{
+                "value": "254PNUMBER_007"
+            }]
+        }
+    },
+    "parts": {
+        "body": {        	
+            "text": "MSNOTE_007"
+        },
+        "trailer": {
+            "text": "MSHEADER_007"
+        }
+    }
+}
